@@ -17,8 +17,8 @@ Temp.close()
 Example code for testing:
 ```python
 #----------------------------------/ Example Code /---------------------------------#
-from Py_Tools_AP import teste
-teste()
+from Py_Tools_AP import test
+test()
 #----------------------------------/ Example Code /---------------------------------#
 ```
 
