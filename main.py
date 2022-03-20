@@ -39,7 +39,7 @@ def pip_install(packge):
 
 #Uninstall pip module
 def pip_uninstall(packge):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", packge])
+    subprocess.check_call([sys.executable, "-m", "pip", "uninstall", packge])
 
 
 #Clear Console
